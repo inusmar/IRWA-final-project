@@ -9,4 +9,4 @@ Hemos agregado las tres carpetas con:
 
 Además hemos añadido el report en un pdf. 
 
-Dentro del report está el link de los tweets.
+Dentro del report está la url que dirige al json donde se encuentran los tweets.
